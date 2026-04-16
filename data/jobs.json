@@ -1,0 +1,45 @@
+[
+  {
+    "id": "import-001-madrid-digital-studio-junior-frontend-developer",
+    "title": "Junior Frontend Developer",
+    "company": "Madrid Digital Studio",
+    "location": "Madrid",
+    "remote_mode": "hybrid",
+    "employment_type": "full-time",
+    "salary_min": 22000,
+    "salary_max": 28000,
+    "salary_currency": "EUR",
+    "years_experience_min": 1,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Responsive Design"
+    ],
+    "description": "Build responsive interfaces for client projects and collaborate with designers.",
+    "apply_url": "mailto:jobs@madriddigital.example",
+    "submission_adapter": "email_draft"
+  },
+  {
+    "id": "import-002-insight-madrid-junior-data-analyst",
+    "title": "Junior Data Analyst",
+    "company": "Insight Madrid",
+    "location": "Madrid",
+    "remote_mode": "hybrid",
+    "employment_type": "full-time",
+    "salary_min": 21000,
+    "salary_max": 26000,
+    "salary_currency": "EUR",
+    "years_experience_min": 1,
+    "skills": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Reporting"
+    ],
+    "description": "Turn operational data into dashboards and KPI reports.",
+    "apply_url": "mailto:careers@insightmadrid.example",
+    "submission_adapter": "email_draft"
+  }
+]

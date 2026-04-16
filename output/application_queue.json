@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "import-001-madrid-digital-studio-junior-frontend-developer",
+    "company": "Madrid Digital Studio",
+    "title": "Junior Frontend Developer",
+    "matched_track": "Frontend Engineer",
+    "score": 100,
+    "approved": false,
+    "submitted": false,
+    "submission_adapter": "email_draft",
+    "notes": [
+      "Best track: Frontend Engineer. Score 100/100 with 8 positive signals and no blockers.",
+      "Strong title alignment",
+      "3 core skills matched",
+      "2 bonus skills matched",
+      "Relevant keywords found in job description",
+      "Remote mode allowed: hybrid",
+      "Location fit: Madrid",
+      "Experience requirement met",
+      "Salary range meets expectation"
+    ]
+  },
+  {
+    "job_id": "import-002-insight-madrid-junior-data-analyst",
+    "company": "Insight Madrid",
+    "title": "Junior Data Analyst",
+    "matched_track": "Data Analyst",
+    "score": 90,
+    "approved": false,
+    "submitted": false,
+    "submission_adapter": "email_draft",
+    "notes": [
+      "Best track: Data Analyst. Score 90/100 with 8 positive signals and no blockers.",
+      "Strong title alignment",
+      "2 core skills matched",
+      "1 bonus skills matched",
+      "Relevant keywords found in job description",
+      "Remote mode allowed: hybrid",
+      "Location fit: Madrid",
+      "Experience requirement met",
+      "Salary range meets expectation"
+    ]
+  }
+]

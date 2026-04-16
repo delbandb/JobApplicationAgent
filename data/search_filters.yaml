@@ -1,0 +1,12 @@
+minimum_match_score: 65
+limit: 25
+allowed_employment_types:
+  - full-time
+  - contract
+allowed_remote_modes:
+  - remote
+  - hybrid
+  - onsite
+application_mode: approved_auto_apply
+default_submission_adapter: email_draft
+auto_apply_requires_approval: true

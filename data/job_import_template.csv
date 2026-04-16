@@ -1,0 +1,3 @@
+title,company,location,remote_mode,employment_type,salary_min,salary_max,salary_currency,years_experience_min,skills,description,apply_url,submission_adapter
+Junior Frontend Developer,Madrid Digital Studio,Madrid,hybrid,full-time,22000,28000,EUR,1,"HTML; CSS; JavaScript; React; Responsive Design","Build responsive interfaces for client projects and collaborate with designers.","mailto:jobs@madriddigital.example",email_draft
+Junior Data Analyst,Insight Madrid,Madrid,hybrid,full-time,21000,26000,EUR,1,"SQL; Excel; Power BI; Reporting","Turn operational data into dashboards and KPI reports.","mailto:careers@insightmadrid.example",email_draft

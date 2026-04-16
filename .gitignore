@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+
+# Local-only imports and personal exports
+data/private/
+
+# Keep curated demo outputs, ignore ad-hoc extras
+output/email_drafts/*.txt
+!output/email_drafts/.gitkeep

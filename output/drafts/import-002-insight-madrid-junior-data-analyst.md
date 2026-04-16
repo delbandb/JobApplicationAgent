@@ -1,0 +1,34 @@
+# Application for Junior Data Analyst at Insight Madrid
+
+Dear Insight Madrid hiring team,
+
+I am applying for the Junior Data Analyst role in Madrid. Based on my background, this looks like one of my strongest matches in the data analyst track because of Strong title alignment; 2 core skills matched; 1 bonus skills matched.
+I bring 1 years of practical experience, with particular strengths in Fast learner with cross-functional curiosity, User-centered problem solving, Clear communication and documentation.
+Junior candidate with a broad digital profile spanning analytics, interface design, modern web development, and practical IT support. Strongest value comes from adaptability, fast learning, and the ability to connect technical execution with user needs.
+
+
+I would be excited to contribute to Insight Madrid and help deliver value quickly through reliable execution, curiosity, and collaboration.
+
+Best regards,
+Delba Candidate
+delba@example.com
++34 000 000000
+
+## Payload
+
+```json
+{
+  "candidate_name": "Delba Candidate",
+  "candidate_email": "delba@example.com",
+  "candidate_phone": "+34 000 000000",
+  "headline": "Multi-disciplinary junior candidate for Madrid roles across data, design, frontend, backend, and IT operations",
+  "job_id": "import-002-insight-madrid-junior-data-analyst",
+  "company": "Insight Madrid",
+  "job_title": "Junior Data Analyst",
+  "matched_track": "Data Analyst",
+  "apply_url": "mailto:careers@insightmadrid.example",
+  "match_score": 90,
+  "fit_label": "Excellent",
+  "resume_summary": "Junior candidate with a broad digital profile spanning analytics, interface design, modern web development, and practical IT support. Strongest value comes from adaptability, fast learning, and the ability to connect technical execution with user needs.\n"
+}
+```

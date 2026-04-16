@@ -1,0 +1,125 @@
+name: Delba Candidate
+email: delba@example.com
+phone: "+34 000 000000"
+location: Madrid, Spain
+remote_ok: true
+work_authorization: Spain / EU
+years_experience: 1
+headline: Multi-disciplinary junior candidate for Madrid roles across data, design, frontend, backend, and IT operations
+resume_summary: >
+  Junior candidate with a broad digital profile spanning analytics, interface design,
+  modern web development, and practical IT support. Strongest value comes from adaptability,
+  fast learning, and the ability to connect technical execution with user needs.
+salary_expectation_min: 20000
+salary_expectation_currency: EUR
+preferred_locations:
+  - Madrid
+  - Comunidad de Madrid
+  - Remote
+disallowed_keywords:
+  - unpaid
+  - commission only
+  - practicas no remuneradas
+core_strengths:
+  - Fast learner with cross-functional curiosity
+  - User-centered problem solving
+  - Clear communication and documentation
+  - Adaptable across technical and product contexts
+role_tracks:
+  - name: Data Analyst
+    titles:
+      - data analyst
+      - junior data analyst
+      - business analyst
+      - reporting analyst
+    core_skills:
+      - sql
+      - excel
+      - data visualization
+    bonus_skills:
+      - python
+      - power bi
+      - statistics
+    keywords:
+      - dashboard
+      - reporting
+      - insights
+      - kpi
+  - name: UI Designer
+    titles:
+      - ui designer
+      - product designer
+      - junior ux designer
+      - visual designer
+    core_skills:
+      - figma
+      - ui design
+      - wireframing
+    bonus_skills:
+      - design systems
+      - prototyping
+      - user research
+    keywords:
+      - interface
+      - usability
+      - prototype
+      - design
+  - name: Frontend Engineer
+    titles:
+      - frontend developer
+      - frontend engineer
+      - react developer
+      - web developer
+    core_skills:
+      - html
+      - css
+      - javascript
+    bonus_skills:
+      - react
+      - typescript
+      - responsive design
+    keywords:
+      - frontend
+      - react
+      - interface
+      - web
+  - name: Backend Engineer
+    titles:
+      - backend developer
+      - backend engineer
+      - python developer
+      - software engineer
+    core_skills:
+      - python
+      - apis
+      - sql
+    bonus_skills:
+      - fastapi
+      - node.js
+      - postgresql
+    keywords:
+      - backend
+      - api
+      - services
+      - database
+  - name: IT Operations
+    titles:
+      - junior it support
+      - help desk technician
+      - it technician
+      - junior system administrator
+      - desktop support technician
+    core_skills:
+      - windows
+      - active directory
+      - troubleshooting
+    bonus_skills:
+      - office 365
+      - networking
+      - ticketing systems
+      - hardware support
+    keywords:
+      - support
+      - helpdesk
+      - systems
+      - troubleshooting
