@@ -109,6 +109,12 @@ Run the apply step:
 python -m job_agent.main apply
 ```
 
+Run the test suite:
+
+```bash
+python -m unittest discover
+```
+
 ## Outputs
 
 - `output/dashboard.html` gives a quick visual overview of the application queue.
