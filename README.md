@@ -1,8 +1,17 @@
 # JobApplicationAgent
 
+[![CI](https://github.com/delbandb/JobApplicationAgent/actions/workflows/ci.yml/badge.svg)](https://github.com/delbandb/JobApplicationAgent/actions/workflows/ci.yml)
+
 JobApplicationAgent is a Python workflow for organizing job leads, scoring them against a candidate profile, generating application drafts, and keeping a human approval step before anything is submitted.
 
 It is not a spam bot. The project is designed around a more realistic job-search workflow: import roles, understand fit, explain the score, prepare drafts, and only move forward when the application is worth reviewing.
+
+## Recruiter Quick Scan
+
+- Built a Python CLI workflow that imports job leads, scores matches, creates drafts, and keeps human approval in the loop.
+- Separated domain models, scoring, ingestion, reporting, and pipeline orchestration into maintainable modules.
+- Added standard-library tests for import normalization and scoring behavior, plus GitHub Actions CI.
+- Designed the project around explainable automation instead of blind auto-apply behavior.
 
 ## Why I Built It
 
